@@ -18,8 +18,19 @@ This analysis combined results from the OpenWeatherMap and Google APIs to create
 
 
 
+
 ### Maps from the third deliverable:
+
+The four cities for the third deliverable were in Mexico, and their information can be summed in the following dataframe:
+
+![Mexico combined dataframe](https://user-images.githubusercontent.com/100863488/162440931-942a0d0b-4504-4ef0-9459-8e6a64c128a8.png)
+
+
+
+
 ![WeatherPy_travel_map](https://user-images.githubusercontent.com/100863488/162440606-23875f80-15f2-4f6f-9c6c-0d01c434da4b.png)
+
+
 
 
 
