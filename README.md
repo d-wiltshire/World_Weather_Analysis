@@ -14,7 +14,8 @@ This analysis combined results from OpenWeatherMap and Google API calls to creat
 
 ### Maps from the second deliverable:
 
-![WeatherPy_vacation_map](https://user-images.githubusercontent.com/100863488/162440726-7952155d-8113-4f17-8f76-cb41204c8b85.png)
+![WeatherPy_vacation_map](https://user-images.githubusercontent.com/100863488/162972829-c497e9df-612a-4d84-ae39-e12bb0b42963.png)
+
 
 
 
